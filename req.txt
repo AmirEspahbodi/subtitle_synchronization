@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+openpyxl
+aspose-cells
+python-multipart
